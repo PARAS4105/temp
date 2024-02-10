@@ -10,10 +10,17 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+<<<<<<< HEAD
     "express": "^4.18.2",
     "morgan": "^1.10.0"
   },
   "devDependencies": {
     "nodemon": "^2.0.7"
+=======
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+>>>>>>> f11b830232578452a9069a5f0da967f8b70554f6
   }
 }

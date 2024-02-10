@@ -7,4 +7,6 @@ const newItems = __.flattenDeep(items);
 
 console.log(items);
 
-console.log(newItems)
+console.log(newItems);
+
+console.log('Hello People');
